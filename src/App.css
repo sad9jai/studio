@@ -1,0 +1,32 @@
+.mid-box {
+    
+  background-color: aliceblue;
+  margin: auto;
+  box-sizing: border-box;
+  
+  border-radius: 25px;
+ 
+  text-align: center;
+  
+}
+
+.mid-box label {
+  text-align:  center;
+  display: block;
+
+}
+.form-control{
+
+  width : 100%;
+  border: 2px solid ;
+  border-radius: 18px;
+  box-sizing: border-box;
+  display: block;
+}
+.btn{
+  color: aliceblue;
+  background-color: rgb(17, 17, 19);
+  border: 2px solid ;
+  border-radius: 10px;
+}
+
